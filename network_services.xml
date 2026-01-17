@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content>
+    <networkname>SmmServer</networkname>
+    <disablesslverification>1</disablesslverification>
+    <urls>
+        <act>http://127.0.5.1:8383</act> <!-- https://account.nintendo.net -->
+        <ecs>http://127.0.5.1:8383/ecs/services/ECommerceSOAP</ecs> <!-- https://ecs.wup.shop.nintendo.net -->
+        <nus>http://127.0.5.1:8383/nus/services/NetUpdateSOAP</nus> <!-- https://nus.wup.shop.nintendo.net -->
+        <ias>http://127.0.5.1:8383/ias/services/IdentityAuthenticationSOAP</ias> <!-- https://ias.wup.shop.nintendo.net -->
+        <ccsu>http://127.0.5.1:8383/ccs/download</ccsu> <!-- https://ccs.wup.shop.nintendo.net -->
+        <ccs>http://127.0.5.1:8383/ccs/download</ccs> <!-- http://ccs.cdn.wup.shop.nintendo.net -->
+        <idbe>http://127.0.5.1:8383/icondata</idbe> <!-- https://idbe-wup.cdn.nintendo.net -->
+        <boss>http://127.0.5.1:8383/p01/tasksheet</boss> <!-- https://npts.app.nintendo.net -->
+        <tagaya>http://127.0.5.1:8383/tagaya/versionlist</tagaya> <!-- https://tagaya.wup.shop.nintendo.net -->
+        <olv>http://127.0.5.1:8383/v1/endpoint</olv> <!-- https://discovery.olv.nintendo.net -->
+    </urls>
+</content>
