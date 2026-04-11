@@ -1,0 +1,1 @@
+Official Nintendo courses can be put here (but will not be used by the server for now).
